@@ -3,7 +3,7 @@
 ### Tuesday December 3rd from 10am (French time)
 
 | Time | Speaker | Title | Topics | WP |
-|------------|---------|---------------|----------------------------|--------------|--------|
+|------|---------|-------|--------|----|
 10am-10:15am | Rufin VanRullen | Welcome to ERC Glow | "* The GLoW idea and its long-term vision
 * Work Packages 1-4
 * Implementation: Personnel, Resources, Code, Publications…" | WP1-4 |
