@@ -1,6 +1,7 @@
 # ERC GLoW update Workshop 2024
 
 ### Tuesday December 3rd from 10am (French time)
+
 | Time | Speaker | Title | Topics | WP |
 |----|-----|------------|-----------------|--|
 10am-10:15am | Rufin VanRullen | Welcome to ERC Glow | * The GLoW idea and its long-term vision <br> * Work Packages 1-4 <br> * Implementation: Personnel, Resources, Code, Publications… | WP1-4 |
@@ -12,5 +13,6 @@
 
 
 ### Wednesday December 4th from 10am (French time)
+
 | Time | Speaker | Title | Topics | WP |
 |----|-----|------------|-----------|--|
