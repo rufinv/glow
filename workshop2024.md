@@ -6,9 +6,8 @@
 |----|-----|------------|-----------|--|
 10am-10:15am | Rufin VanRullen | Welcome to ERC Glow | * The GLoW idea and its long-term vision <br> * Work Packages 1-4 <br> * Implementation: Personnel, Resources, Code, Publications… | WP1-4 |
 | 10:15-10:30am | Benjamin Devillers | Multimodal representation learning on Simple Shapes | * Simple Shapes dataset <br> * generic GW architecture + losses + shimmer repo <br> * downstream tasks (evidence for grounding?)" |	WP1 |
-10:30-10:45am	Leopold Maytie	RL policy learning from the GW	"* Robotic environment(s)
-* zero-shot policy transfer
-* sim2real transfer?"	WP2
+| 10:30-10:45am | Leopold Maytie | RL policy learning from the GW | * Robotic environment(s)<br> * zero-shot policy transfer <br> * sim2real transfer? | WP2 |
+
 10:45-11:00am	Nicolas Kuske	Learning of affordance in GW	"* Obstacle tower environment
 * Sensorimotor contingency learning"	WP2
 11:00-11:15am	Roland Bertin-Johannet	Multimodal representation learning on ImageNet	"* scaling up GW
