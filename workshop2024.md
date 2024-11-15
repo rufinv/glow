@@ -4,12 +4,8 @@
 
 | Time | Speaker | Title | Topics | WP |
 |------|---------|-------|--------|----|
-10am-10:15am | Rufin VanRullen | Welcome to ERC Glow | "* The GLoW idea and its long-term vision
-* Work Packages 1-4
-* Implementation: Personnel, Resources, Code, Publications…" | WP1-4 |
-| 10:15-10:30am | Benjamin Devillers | Multimodal representation learning on Simple Shapes | "* Simple Shapes dataset
-* generic GW architecture + losses + shimmer repo
-* downstream tasks (evidence for grounding?)" |	WP1 |
+10am-10:15am | Rufin VanRullen | Welcome to ERC Glow | * The GLoW idea and its long-term vision <br> * Work Packages 1-4 <br> * Implementation: Personnel, Resources, Code, Publications… | WP1-4 |
+| 10:15-10:30am | Benjamin Devillers | Multimodal representation learning on Simple Shapes | * Simple Shapes dataset <br> * generic GW architecture + losses + shimmer repo <br> * downstream tasks (evidence for grounding?)" |	WP1 |
 10:30-10:45am	Leopold Maytie	RL policy learning from the GW	"* Robotic environment(s)
 * zero-shot policy transfer
 * sim2real transfer?"	WP2
