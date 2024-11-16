@@ -24,6 +24,20 @@
   }
 }
 
+:root table:has(th[data-label=" Topic(s) "]) {
+  --md-table-border-color: black;
+  --md-table-header-bg-color: gold;
+  & thead {
+      background-color: gold;
+    }
+  & tr:nth-child(even) {
+    background-color: cornsilk;
+  }
+  & tr:nth-child(3) {
+    background-color: indigo;
+  }
+}
+
 :root.dark {
   --md-table-border-color: white;
   --md-table-header-bg-color: indigo;
