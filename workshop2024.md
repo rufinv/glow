@@ -18,7 +18,7 @@
 |----|-----|------------|-----------------|--|
 | 10am-10:15am | Roland Bertin-Johannet | Attention control strategies for noise robustness | * Key-Query Attention <br> * Unimodal / Bimodal noise conditions<br>* Attention iterations |	WP3 |
 | 10:15-10:30am | Hugo Chateau-Laurent | Towards System-2: Learning to perform additions with GW and attention | * Hand-designed modules: IN, OUT, INCREMENT<br> * LSTM attention router, comparison vs. baselines<br>* Planned improvements: MNIST, rotations… | 	WP3 |
-| Open Projects (lightning talks) |||||				
+||| <h4> Open Projects (lightning talks) </h4> |||				
 | 10:30-10:37am | Hugo Chateau-Laurent | A novel Transformer architecture with GW-like routing? |	* Transformer layers as GW modules ||
 | 10:38-10:45am | B. Devillers | GW with Transformer modules | * Architecture changes, losses<br> * Simple shapes, BabyLM ||	
 | 10:45-10:52am | Raja Kumar | Can we adapt an LMM to match the GW constraints? | * LMM choice, architecture<br> * LORA fine-tuning ||
