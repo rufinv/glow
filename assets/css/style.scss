@@ -40,11 +40,11 @@ div.mytable+table tr:nth-child(3) {
     color: white
 }
 
-div.mytable+table tr:nth-child(4+6) {
+div.mytable+table tr:nth-child(4&6) {
     background-color: mediumpurple;
     color: black
 }
 
-div.mytable+table tr:nth-child(5+7) {
+div.mytable+table tr:nth-child(5&7) {
     background-color: lavender;
 }
