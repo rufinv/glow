@@ -11,3 +11,21 @@
 .main-content {
     max-width: 110rem;
     }
+
+:root table:has(th[data-label="Speaker"]) {
+  --md-table-border-color: black;
+  --md-table-header-bg-color: gold;
+
+  & tr:nth-child(even) {
+    background-color: cornsilk;
+  }
+}
+
+:root.dark table:has(th[data-label="Speaker"]) {
+  --md-table-border-color: white;
+  --md-table-header-bg-color: indigo;
+
+  & tr:nth-child(even) {
+    background-color: mediumpurple;
+  }
+}
