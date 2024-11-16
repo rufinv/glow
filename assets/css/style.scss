@@ -15,7 +15,9 @@
 :root {
   --md-table-border-color: black;
   --md-table-header-bg-color: gold;
-
+  & thead {
+      background-color: gold;
+    }
   & tr:nth-child(even) {
     background-color: cornsilk;
   }
@@ -24,7 +26,9 @@
 :root.dark {
   --md-table-border-color: white;
   --md-table-header-bg-color: indigo;
-
+  & thead {
+      background-color: indigo;
+  }
   & tr:nth-child(even) {
     background-color: mediumpurple;
   }
