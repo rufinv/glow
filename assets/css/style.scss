@@ -35,10 +35,6 @@
   }
 }
 
-div.mytable+table thead {
-    background-color: lightblue;
-}
-
-div.mytable+ tr:nth-child(3) {
+div.mytable+table tr:nth-child(3) {
     background-color: indigo;
 }
