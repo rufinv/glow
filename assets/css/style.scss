@@ -38,7 +38,8 @@
 div.mytable+table tr:nth-child(3) {
     background-color: indigo;
     border: indigo;
-    color: white
+    color: white;
+    & td { border:indigo }
 }
 
 div.mytable+table tr:nth-child(4), div.mytable+table tr:nth-child(6) {
