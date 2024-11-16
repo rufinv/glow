@@ -24,7 +24,7 @@
   }
 }
 
-:root table:has(th[data-label=" Topic(s) "]) {
+:root table:has(th[data-label="Topic(s)"]) {
   --md-table-border-color: black;
   --md-table-header-bg-color: gold;
   & thead {
