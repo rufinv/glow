@@ -22,7 +22,7 @@
 ||| _**Open Projects (lightning talks)**_ |||				
 | 10:30-10:37am | Hugo Chateau-Laurent | A novel Transformer architecture with GW-like routing? |	* Transformer layers as GW modules ||
 | 10:38-10:45am | B. Devillers | GW with Transformer modules | * Architecture changes, losses<br> * Simple shapes, BabyLM ||	
-| 10:45-10:52am | Raja Kumar | Can we adapt an LMM to match the GW constraints? | * LMM choice, architecture<br> * LORA fine-tuning ||
+| 10:45-10:52am | Raja Kumar | How to GLoW-ify your LMM? | * LMM choice, architecture<br> * LORA fine-tuning ||
 | 10:53-11am | Leopold Maytie | GW as a World Model | * Dreamer architecture <br> * Planned experiments ||	
 | 11am-11:15am | Rufin VanRullen | Main directions of GLoW 2025-…	| * more modalities/modules (N >= 3)<br>* track evidence of grounding / affordance / synergistic associations<br> * modules as skills for System-2 combinations<br> * GW-based Foundation models (C3PO, BrainIT) ||	
 | 11:15-11:30am| Everyone | Remaining Questions and Discussions |||		
