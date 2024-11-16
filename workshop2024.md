@@ -14,7 +14,7 @@
 
 ### Wednesday December 4th from 10am (French time)
 
-| Time | Speaker | Title | Topics | WP |
+| Time | Speaker | Title | Topic(s) | WP |
 |----|-----|------------|-----------------|--|
 | 10am-10:15am | Roland Bertin-Johannet | Attention control strategies for noise robustness | * Key-Query Attention <br> * Unimodal / Bimodal noise conditions<br>* Attention iterations |	WP3 |
 | 10:15-10:30am | Hugo Chateau-Laurent | Towards System-2: Learning to perform additions with GW and attention | * Hand-designed modules: IN, OUT, INCREMENT<br> * LSTM attention router, comparison vs. baselines<br>* Planned improvements: MNIST, rotations… | 	WP3 |
