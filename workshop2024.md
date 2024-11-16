@@ -13,7 +13,7 @@
 
 
 ### Wednesday December 4th from 10am (French time)
-
+<span class="mytable">
 | Time | Speaker | Title | Topic(s) | WP |
 |----|-----|------------|-----------------|--|
 | 10am-10:15am | Roland Bertin-Johannet | Attention control strategies for noise robustness | * Key-Query Attention <br> * Unimodal / Bimodal noise conditions<br>* Attention iterations |	WP3 |
@@ -25,3 +25,4 @@
 | 10:53-11am | Leopold Maytie | GW as a World Model | * Dreamer architecture <br> * Planned experiments ||	
 | 11am-11:15am | Rufin VanRullen | Main directions of GLoW 2025-…	| * more modalities/modules (N >= 3)<br>* track evidence of grounding / affordance / synergistic associations<br> * modules as skills for System-2 combinations<br> * GW-based Foundation models (C3PO, BrainIT) ||	
 | 11:15-11:30am| Everyone | Remaining Questions and Discussions |||		
+</span>
