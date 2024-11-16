@@ -12,7 +12,7 @@
     max-width: 110rem;
     }
 
-:root table {
+:root {
   --md-table-border-color: black;
   --md-table-header-bg-color: gold;
 
@@ -21,7 +21,7 @@
   }
 }
 
-:root.dark table {
+:root.dark {
   --md-table-border-color: white;
   --md-table-header-bg-color: indigo;
 
