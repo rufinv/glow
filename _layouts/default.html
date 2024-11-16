@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <a href="{{ site.url }}/{{ site.title }}">
+    <a href="{{ page.url }}/{{ page.title }}">
       <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: page.title | default: site.github.repository_name }}</h1>
       {% if site.show_downloads %}
