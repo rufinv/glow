@@ -35,14 +35,10 @@
   }
 }
 
-.mytable {
-    thead {
-      background-color: gold;
-    }
-    & tr:nth-child(even) {
-        background-color: cornsilk;
-      }
-    & tr:nth-child(3) {
-        background-color: indigo;
-      }
-    }
+div.mytable+table td, div.mytable+table th {
+    background-color: lightblue;
+}
+
+div.mytable+table tr:nth-child(3) {
+    background-color: indigo;
+}
