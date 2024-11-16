@@ -39,3 +39,11 @@ div.mytable+table tr:nth-child(3) {
     background-color: indigo;
     color: white
 }
+
+div.mytable+table tr:nth-child(4,6) {
+    background-color: mediumpurple;
+}
+
+div.mytable+table tr:nth-child(5,7) {
+    background-color: lightpurple;
+}
