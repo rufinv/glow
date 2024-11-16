@@ -14,6 +14,7 @@
 
 ### Wednesday December 4th from 10am (French time)
 <span class="mytable">
+  
 | Time | Speaker | Title | Topic(s) | WP |
 |----|-----|------------|-----------------|--|
 | 10am-10:15am | Roland Bertin-Johannet | Attention control strategies for noise robustness | * Key-Query Attention <br> * Unimodal / Bimodal noise conditions<br>* Attention iterations |	WP3 |
